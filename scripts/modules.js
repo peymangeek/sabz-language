@@ -31,7 +31,7 @@ const renderUI = (items, page) => {
               </p>
             </div>
             <a
-              href="/skills/listening/?page=${page}&title=${_URL}"
+              href="/sabz-language/skills/listening/?page=${page}&title=${_URL}"
               class="bg-gradient-to-t mt-3 flex items-center justify-center from-zinc-950 to-zinc-800 max-w-max px-10 text-white h-10 rounded-md"
             >
               Continue
