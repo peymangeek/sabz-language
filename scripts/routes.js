@@ -25,7 +25,7 @@ export const items = {
         {
             title: "A request from your boss",
             description: "Listen to requests from a manager to practise and improve your listening skills.",
-            image: "./../public/images/boss.jpg",
+            image: "./../../public/images/boss.jpg",
             conversation: [
                 { speaker: "Susanne", text: "Hi, Mario. Can you help me prepare some things for the next month?" },
                 { speaker: "Mario", text: "OK, sure. What can I help you with?" },
@@ -41,12 +41,12 @@ export const items = {
                 { speaker: "Mario", text: "Sure, no problem. I can do it this week." },
                 { speaker: "Susanne", text: "There's no hurry. Take your time." }
             ],
-            audio: "./../public/media/LE_listening_A1_A_request_from_your_boss.mp3",
+            audio: "./../../public/media/LE_listening_A1_A_request_from_your_boss.mp3",
         },
         {
             title: "A voicemail message",
             description: "Listen to a voicemail message and answer the questions to practise your listening skills.",
-            image: "./../public/images/phone.jpeg",
+            image: "./../../public/images/phone.jpeg",
             conversation: [
                 { speaker: "John", text: "Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back." },
                 { speaker: "Marina", text: "Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me." },
@@ -54,12 +54,12 @@ export const items = {
                 { speaker: "Marina", text: "Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com." },
                 { speaker: "Marina", text: "Thanks a lot. I look forward to hearing from you." }
             ],
-            audio: "./../public/media/LE_listening_A1_A_voicemail_message.mp3",
+            audio: "./../../public/media/LE_listening_A1_A_voicemail_message.mp3",
         },
         {
             title: "Booking a table",
             description: "Listen to someone booking a table in a restaurant to practise and improve your listening skills!",
-            image: "./../public/images/booking.avif",
+            image: "./../../public/images/booking.avif",
             conversation: [
                 { speaker: "John", text: "Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back." },
                 { speaker: "Marina", text: "Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me." },
@@ -67,12 +67,12 @@ export const items = {
                 { speaker: "Marina", text: "Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com." },
                 { speaker: "Marina", text: "Thanks a lot. I look forward to hearing from you." }
             ],
-            audio: "./../public/media/LE_listening_A1_Booking_a_table.mp3",
+            audio: "./../../public/media/LE_listening_A1_Booking_a_table.mp3",
         },
         {
             title: "Business cards",
             description: "Listen to four people talk about their jobs to practise and improve your listening skills.",
-            image: "./../public/images/business-cards.avif",
+            image: "./../../public/images/business-cards.avif",
             conversation: [
                 {
                     speaker: "A",
@@ -103,12 +103,12 @@ export const items = {
                     text: "Hello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development."
                 }
             ],
-            audio: "./../public/media/LE_listening_A1_Business_cards.mp3",
+            audio: "./../../public/media/LE_listening_A1_Business_cards.mp3",
         },
         {
             title: "Finding the library",
             description: "Listen to a conversation about the university library to practise and improve your listening skills.",
-            image: "./../public/images/library_books.jpg",
+            image: "./../../public/images/library_books.jpg",
             conversation: [
                 { speaker: "Student", text: "Hi. Excuse me." },
                 { speaker: "Student B", text: "Yes?" },
@@ -140,12 +140,12 @@ export const items = {
                 { speaker: "Student", text: "Oh! Oh, OK. Thank you." },
                 { speaker: "Librarian", text: "You're welcome." }
             ],
-            audio: "./../public/media/LE_listening_A1_Finding_ the_library.mp3",
+            audio: "./../../public/media/LE_listening_A1_Finding_ the_library.mp3",
         },
         {
             title: "Meeting a new team member",
             description: "Listen to a conversation between two new colleagues to practise your listening skills.",
-            image: "./../public/images/team_meeting.jpg",
+            image: "./../../public/images/team_meeting.jpg",
             conversation: [
                 { speaker: "Peter", text: "Hi, my name's Peter. What's your name?" },
                 { speaker: "Carla", text: "Hi, Peter. I'm Carla. I'm new here." },
@@ -167,12 +167,12 @@ export const items = {
                 { speaker: "Carla", text: "How long have you been here?" },
                 { speaker: "Peter", text: "I've worked here for three years but I actually moved here from the UK five years ago, to study." }
             ],
-            audio: "./../public/media/LE_listening_A1_Meeting_a_new_team_member.mp3",
+            audio: "./../../public/media/LE_listening_A1_Meeting_a_new_team_member.mp3",
         },
         {
             title: "Meeting other students",
             description: "Listen to a group of new students meeting for the first time to practise and improve your listening skills.",
-            image: "./../public/images/students.jpg",
+            image: "./../../public/images/students.jpg",
             conversation: [
                 { speaker: "Teacher", text: "So, now you've got the important information, it's time to meet each other. Everyone turn to the people next to you and introduce yourselves." },
                 { speaker: "Cara", text: "So, hi. I'm Cara. And you are?" },
@@ -195,12 +195,12 @@ export const items = {
                 { speaker: "Selim", text: "I wanted to do French but German was easier, so I took that." },
                 { speaker: "Cara", text: "German is so hard!" }
             ],
-            audio: "./../public/media/LE_listening_A1_Meeting_other_students.mp3",
+            audio: "./../../public/media/LE_listening_A1_Meeting_other_students.mp3",
         },
         {
             title: "Meeting people at a dinner",
             description: "Listen to a group of new students meeting for the first time to practise and improve your listening skills.",
-            image: "./../public/images/business-meeting.png",
+            image: "./../../public/images/business-meeting.png",
             conversation: [
                 { speaker: "Charles", text: "Hello, Julian." },
                 { speaker: "Julian", text: "Hello, Charles. How are you?" },
@@ -221,12 +221,12 @@ export const items = {
                 { speaker: "Charles", text: "Here you are." },
                 { speaker: "Alyssa and Julian", text: "Thanks!" }
             ],
-            audio: "./../public/media/LE_listening_A1_Meeting_people_at_a_dinner.mp3",
+            audio: "./../../public/media/LE_listening_A1_Meeting_people_at_a_dinner.mp3",
         },
         {
             title: "Ordering in a café",
             description: "Listen to people ordering food and drinks in a café to practise and improve your listening skills.",
-            image: "./../public/images/ordering-cafe.avif",
+            image: "./../../public/images/ordering-cafe.avif",
             conversation: [
                 { speaker: "Customer 1", text: "Can I have an orange juice, please?" },
                 { speaker: "Server", text: "Regular or large?" },
@@ -262,12 +262,12 @@ export const items = {
                 { speaker: "Customer 3", text: "Thanks. I think that's right." },
                 { speaker: "Server", text: "50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you." }
             ],
-            audio: "./../public/media/LE_listening_A1_Ordering_in_a_café.mp3",
+            audio: "./../../public/media/LE_listening_A1_Ordering_in_a_café.mp3",
         },
         {
             title: "Organising a group project",
             description: "Listen to people organising a group project and answer the questions to practise and improve your listening skills.",
-            image: "./../public/images/organizing-projects.png",
+            image: "./../../public/images/organizing-projects.png",
             conversation: [
                 { speaker: "Cara", text: "So for our group project, do you want to start this week?" },
                 { speaker: "Selim", text: "Yeah, I want to start early so we have enough time." },
@@ -292,12 +292,12 @@ export const items = {
                 { speaker: "Selim", text: "OK! See you Wednesday for cake." },
                 { speaker: "Robert and Cara", text: "See you, Selim!" }
             ],
-            audio: "./../public/media/LE_Listening_A1_Organising_a_ group_ project.mp3",
+            audio: "./../../public/media/LE_Listening_A1_Organising_a_ group_ project.mp3",
         },
         {
             title: "Shopping for clothes",
             description: "Listen to a conversation in a shop to practise and improve your listening skills.",
-            image: "./../public/images/buy-clothes.png",
+            image: "./../../public/images/buy-clothes.png",
             conversation: [
                 { speaker: "Shop assistant", text: "Hello, can I help you?" },
                 { speaker: "Customer", text: "I'm just looking, thanks." },
@@ -317,12 +317,12 @@ export const items = {
                 { speaker: "Shop assistant", text: "Would you like a bag for that?" },
                 { speaker: "Customer", text: "Yes, please." }
             ],
-            audio: "./../public/media/LE_listening_A1_Shopping_for_clothes.mp3",
+            audio: "./../../public/media/LE_listening_A1_Shopping_for_clothes.mp3",
         },
         {
             title: "The first English class",
             description: "Listen to a teacher give students information about a new course to practise and improve your listening skills.",
-            image: "./../public/images/first-class-day.jpg",
+            image: "./../../public/images/first-class-day.jpg",
             conversation: [
                 { speaker: "Lindsay Black", text: "Hello, everyone. Hello! It's nice to see you all here. Welcome to British Life and Language. I am your teacher. My name is Lindsay Black. That's L-I-N-D-S-A-Y Black." },
                 { speaker: "Lindsay Black", text: "Before we begin, some information about the class." },
@@ -333,14 +333,14 @@ export const items = {
                 { speaker: "Lindsay Black", text: "I think that's all ... Oh, one more thing. For this course you need the book. Here it is: British Life and Language Level 1 Student's Book. So, please get a copy of the book. I don't want to see any photocopies of the book, thank you! Remember, it's level 1 student's book. Don't buy the teacher's book." },
                 { speaker: "Lindsay Black", text: "I think that's all, everyone. I look forward to working with you. See you next Monday!" }
             ],
-            audio: "./../public/media/LE_listening_A1_The_first_English_class.mp3",
+            audio: "./../../public/media/LE_listening_A1_The_first_English_class.mp3",
         }
     ],
     a2: [
         {
             title: "A morning briefing",
             description: "Listen to a morning briefing to practise and improve your listening skills.",
-            image: "./../public/images/briefing-morning.jpg",
+            image: "./../../public/images/briefing-morning.jpg",
             conversation: [
                 { speaker: "Speaker", text: "Hi, everyone. I know you're all busy so I'll keep this briefing quick. I have some important information about a change in the management team." },
                 { speaker: "Speaker", text: "As you already know, our head of department, James Watson, is leaving his position at the end of this week. His replacement is starting at the end of the next month. In the meantime, we'll continue with our projects as usual." },
@@ -350,12 +350,12 @@ export const items = {
                 { speaker: "Speaker", text: "The other thing I wanted to tell you about is that the canteen has now introduced a cashless payment system. So, you can't use cash for payments any more. You can pay directly with your smartphone or you can pay using your company ID card. The total amount put on your company ID card comes off your salary at the end of each month." },
                 { speaker: "Speaker", text: "OK. That's it? Are there any questions?" }
             ],
-            audio: "./../public/media/LE_listening_A2_Morning_briefing.mp3",
+            audio: "./../../public/media/LE_listening_A2_Morning_briefing.mp3",
         },
         {
             title: "An invitation to a party",
             description: "Listen to some phone messages with directions to practise and improve your listening skills.",
-            image: "./../public/images/An-invitation-to-party.jpg",
+            image: "./../../public/images/An-invitation-to-party.jpg",
             conversation: [
                 {
                     speaker: "Automated message",
@@ -366,12 +366,12 @@ export const items = {
                     text: "You have two new messages. Message number two, received today at 5.15 p.m. Aw, you're still not answering your phone! OK, here are the instructions to get to my cousin's house for the party. Are you going to take your car? If you take the car, drive straight on Forest Road until you get to the motorway. Drive past Brownsville and take exit 13A. That's 13A. You drive down the road there and turn left. It's the first big house on the right. OK? If you're taking a bus, you can get the number 80 to Brownsville. Call me when you get there and somebody can pick you up in a car. I can't wait. This is going to be so great!"
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_An_invitation_to_a_party.mp3",
+            audio: "./../../public/media/LE_listening_A2_An_invitation_to_a_party.mp3",
         },
         {
             title: "Changing a meeting time",
             description: "Listen to two colleagues arranging a meeting to practise and improve your listening skills.",
-            image: "./../public/images/change-meeting-time.jpg",
+            image: "./../../public/images/change-meeting-time.jpg",
             conversation: [
                 {
                     speaker: "Lucy",
@@ -438,12 +438,12 @@ export const items = {
                     text: "You too."
                 },
             ],
-            audio: "./../public/media/LE_listening_A2_Changing_a_meeting_time.mp3",
+            audio: "./../../public/media/LE_listening_A2_Changing_a_meeting_time.mp3",
         },
         {
             title: "Changing plans",
             description: "Listen to two people talking about changing their plans to practise and improve your listening skills.",
-            image: "./../public/images/active-listening.png",
+            image: "./../../public/images/active-listening.png",
             conversation: [
                 {
                     speaker: "Francesco",
@@ -538,12 +538,12 @@ export const items = {
                     text: "I promise. I promise!"
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Changing_plans.mp3",
+            audio: "./../../public/media/LE_listening_A2_Changing_plans.mp3",
         },
         {
             title: "Facts and figures",
             description: "Listen to the lecturer giving some facts and figures to practise and improve your listening skills.",
-            image: "./../public/images/activelistening.jpeg",
+            image: "./../../public/images/activelistening.jpeg",
             conversation: [
                 {
                     speaker: "Speaker",
@@ -566,12 +566,12 @@ export const items = {
                     text: "Let's now turn to the role of the Panama Canal in the global economy …"
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Facts_and_figures.mp3",
+            audio: "./../../public/media/LE_listening_A2_Facts_and_figures.mp3",
         },
         {
             title: "Four conversations",
             description: "Listen to four conversations to practise and improve your listening skills.",
-            image: "./../public/images/four-conversation.png",
+            image: "./../../public/images/four-conversation.png",
             conversation: [
                 {
                     speaker: "Man",
@@ -746,12 +746,12 @@ export const items = {
                     text: "I'm sorry."
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Four_conversations.mp3",
+            audio: "./../../public/media/LE_listening_A2_Four_conversations.mp3",
         },
         {
             title: "Instructions for an assignment",
             description: "Listen to a university teacher giving instructions for an assignment to practise and improve your listening skills.",
-            image: "./../public/images/1628258521169.jfif",
+            image: "./../../public/images/1628258521169.jfif",
             conversation: [
                 {
                     speaker: "Teacher",
@@ -774,12 +774,12 @@ export const items = {
                     text: "And lastly, make it easy for me to read! That means use a clear font. Arial is best, but Times New Roman is fine too. Not Comic Sans please! Size 12 font for the essay, and size 14 for the titles and subheadings. And use page numbers. Any questions?"
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Academic_Instructions_for_an_assignment.mp3",
+            audio: "./../../public/media/LE_listening_A2_Academic_Instructions_for_an_assignment.mp3",
         },
         {
             title: "Leaving a message",
             description: "Listen to someone leaving a message to practise and improve your listening skills.",
-            image: "./../public/images/leaving-message.jpg",
+            image: "./../../public/images/leaving-message.jpg",
             conversation: [
                 {
                     speaker: "Jane",
@@ -866,12 +866,12 @@ export const items = {
                     text: "Goodbye."
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Leaving_a_message.mp3",
+            audio: "./../../public/media/LE_listening_A2_Leaving_a_message.mp3",
         },
         {
             title: "Missing a class",
             description: "Listen to a student explain why she can't come to class to practise and improve your listening skills.",
-            image: "./../public/images/missing-class.jpg",
+            image: "./../../public/images/missing-class.jpg",
             conversation: [
                 {
                     speaker: "Jane",
@@ -958,12 +958,12 @@ export const items = {
                     text: "Goodbye."
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Missing_a_class.mp3",
+            audio: "./../../public/media/LE_listening_A2_Missing_a_class.mp3",
         },
         {
             title: "Transport announcements",
             description: "Listen to some transport announcements to practise and improve your listening skills.",
-            image: "./../public/images/transport-announcement.png",
+            image: "./../../public/images/transport-announcement.png",
             conversation: [
                 {
                     speaker: "A",
@@ -982,12 +982,12 @@ export const items = {
                     text: "This is a London Underground service to Liverpool Street. The next station is Liverpool Street. Upon arrival, the first set of doors will not open. Customers in the first carriage, please move towards the rear doors to leave the train. The next station is Liverpool Street. Change here for Central Line, Circle Line, Hammersmith & City Line and Metropolitan Line and Main Line Suburban rail services. Please mind the gap between the train and the platform. This train terminates at Redbridge."
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Transport_announcements.mp3",
+            audio: "./../../public/media/LE_listening_A2_Transport_announcements.mp3",
         },
         {
             title: "Understanding an explanation",
             description: "Listen to a professor's explanation to practise and improve your listening skills.",
-            image: "./../public/images/understanding-explation.png",
+            image: "./../../public/images/understanding-explation.png",
             conversation: [
                 {
                     speaker: "Professor",
@@ -1042,12 +1042,12 @@ export const items = {
                     text: "OK ... well, we don't have time right now but I can bring more examples in for next class, OK?"
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Understanding_an_explanation.mp3",
+            audio: "./../../public/media/LE_listening_A2_Understanding_an_explanation.mp3",
         },
         {
             title: "Who's who in the office",
             description: "Listen to two people talking about the people in their office to practise and improve your listening skills.",
-            image: "./../public/images/office.png",
+            image: "./../../public/images/office.png",
             conversation: [
                 {
                     speaker: "Jani",
@@ -1098,7 +1098,7 @@ export const items = {
                     text: "Thanks. I'll introduce myself to him later."
                 }
             ],
-            audio: "./../public/media/LE_listening_A2_Who's_who_in_the_office.mp3",
+            audio: "./../../public/media/LE_listening_A2_Who's_who_in_the_office.mp3",
         }
 
     ],
@@ -1106,7 +1106,7 @@ export const items = {
         {
             title: "A phone call from a customer",
             description: "Listen to the phone call from a customer to practise and improve your listening skills.",
-            image: "./../public/images/customer-calling-home-featured.avif",
+            image: "./../../public/images/customer-calling-home-featured.avif",
             conversation: [
                 {
                     speaker: "Junko",
@@ -1181,12 +1181,12 @@ export const items = {
                     text: "You too. Goodbye."
                 }
             ],
-            audio: "./../public/media/LE_listening_B1_A_phone_call_from_a_customer.mp3",
+            audio: "./../../public/media/LE_listening_B1_A_phone_call_from_a_customer.mp3",
         },
         {
             title: "A student discussion",
             description: "Listen to two students comparing Mars and Earth to practise and improve your listening skills.",
-            image: "./../public/images/group-discussion.151207.jpg",
+            image: "./../../public/images/group-discussion.151207.jpg",
             conversation: [
                 { speaker: "Teacher", text: "So you've got a few minutes to discuss with your partner." },
                 { speaker: "Student 1", text: "So, as far as I know, the main similarity between Mars and Earth is that they can both support human life." },
@@ -1210,12 +1210,12 @@ export const items = {
                 { speaker: "Student 1", text: "Oh, yes. It says Mars has about 38 per cent of Earth's gravity." },
                 { speaker: "Teacher", text: "OK, let's see what you've found …" }
             ],
-            audio: "./../public/media/LE_listening_B1_Student_discussion.mp3",
+            audio: "./../../public/media/LE_listening_B1_Student_discussion.mp3",
         },
         {
             title: "A team meeting about diversity",
             description: "Listen to a team meeting about diversity to practise and improve your listening skills.",
-            image: "./../public/images/happy-business-people-meeting-strategy-planning-team-discussion-sharing-idea-office-group-employees-teamwork-collaboration-discussing-project-plan-conference-workplace_590464-194246.avif",
+            image: "./../../public/images/happy-business-people-meeting-strategy-planning-team-discussion-sharing-idea-office-group-employees-teamwork-collaboration-discussing-project-plan-conference-workplace_590464-194246.avif",
             conversation: [
                 { speaker: "Nina", text: "As you know, our team has grown a lot in the past year and we feel we need to address the diversity in the team." },
                 { speaker: "Brenda", text: "How do you mean, 'address the diversity'?" },
@@ -1236,12 +1236,12 @@ export const items = {
                 { speaker: "Brenda", text: "Sure. That'll be fun." },
                 { speaker: "Nina", text: "And I'm going to do some further research into how other organisations are benefiting from their diversity. I can share this with the whole team." }
             ],
-            audio: "./../public/media/LE_listening_B1_Team_meeting_about_diversity.mp3",
+            audio: "./../../public/media/LE_listening_B1_Team_meeting_about_diversity.mp3",
         },
         {
             title: "A weather forecast",
             description: "Listen to a weather forecast and answer the questions to practise and improve your listening skills.",
-            image: "./../public/images/weather-forcaster.jpg",
+            image: "./../../public/images/weather-forcaster.jpg",
             conversation: [
                 { speaker: "Presenter", text: "Hello and good morning! Well, we're off to a good start in the south this week, as most of the rain from the weekend has disappeared – just a few patches of cloud and maybe some showers here on the east coast. They'll all clear up by lunchtime, though." },
                 { speaker: "Presenter", text: "Over the next day or so, London and the area around Kent can expect a couple of isolated showers, but mostly dry through until Thursday." },
@@ -1253,12 +1253,12 @@ export const items = {
                 { speaker: "Presenter", text: "Temperatures, at least, will stay mostly warm at around 21 degrees for the weekend. It might feel like a nice change from the high twenties and early thirties we'll see in the week." },
                 { speaker: "Presenter", text: "That's all from me until tomorrow. Enjoy the mini-heatwave while you can!" }
             ],
-            audio: "./../public/media/LE_listening_B1_A_weather_forecast.mp3",
+            audio: "./../../public/media/LE_listening_B1_A_weather_forecast.mp3",
         },
         {
             title: "An interview about listening skills",
             description: "Listen to the English teacher talk about listening to practise and improve your listening skills.",
-            image: "./../public/images/interview.png",
+            image: "./../../public/images/interview.png",
             conversation: [
                 { speaker: "Presenter", text: "So, today's expert teacher is Gabriella, a university English teacher from Leeds. Gabriella, hi and thanks for joining us today." },
                 { speaker: "Gabriella", text: "Thanks for having me!" },
@@ -1274,12 +1274,12 @@ export const items = {
                 { speaker: "Gabriella", text: "Ah, well, you only start the summary, so you might say, in German in your case, 'OK, so the first thing I have to do is …?' and make it a question. Or, for example, 'And which office is that again?' Break it down into smaller questions and the other person will naturally start answering them. That way you're controlling the conversation a bit more." },
                 { speaker: "Presenter", text: "I get you ...." }
             ],
-            audio: "./../public/media/LE_listening_B1_An_interview_about_listening_skills.mp3",
+            audio: "./../../public/media/LE_listening_B1_An_interview_about_listening_skills.mp3",
         },
         {
             title: "An introduction to a lecture",
             description: "Listen to the introduction of a psychology lecture to practise and improve your listening skills.",
-            image: "./../public/images/An-introduction-to-a-lecture.jpg",
+            image: "./../../public/images/An-introduction-to-a-lecture.jpg",
             conversation: [
                 { speaker: "Lecturer", text: "Good afternoon, everyone. Welcome to the first lecture of our new course in Positive Psychology. While some people may associate psychology with looking at what's wrong with us, and at what problems we have, there is much more to psychology than that. Positive psychology, for example, looks at how to help people become happier." },
                 { speaker: "Lecturer", text: "This lecture begins with a question: what makes a happy life?" },
@@ -1291,12 +1291,12 @@ export const items = {
                 { speaker: "Lecturer", text: "For the rest of this lecture, I will explore this theory of flow in more detail. First we will look at Csikszentmihalyi's life, and how it influenced his ideas. Then we will look at the conditions that go with a state of flow. What creates flow, exactly? Finally, we will look at activities that can help us achieve flow in our everyday lives. Will this course make you happy for life? Well, maybe. Maybe." },
                 { speaker: "Lecturer", text: "Right, let's get started. If you look at the next slide …" }
             ],
-            audio: "./../public/media/LE_listening_B1_An_introduction_to_a_lecture.mp3",
+            audio: "./../../public/media/LE_listening_B1_An_introduction_to_a_lecture.mp3",
         },
         {
             title: "Arriving late to class",
             description: "Listen to the conversation between two students to practise and improve your listening skills.",
-            image: "./../public/images/Arriving-late-to-class.png",
+            image: "./../../public/images/Arriving-late-to-class.png",
             conversation: [
                 { speaker: "Student 1", text: "Sorry. Sorry, excuse me. I'm just … just coming to sit over here. Phew. Hey. How's it going? So, what have I missed?" },
                 { speaker: "Student 2", text: "Nothing. He just started around five minutes ago." },
@@ -1330,12 +1330,12 @@ export const items = {
                 { speaker: "Student 2", text: "It's fine." },
                 { speaker: "Student 1", text: "Here, I'll just … excuse me. I'm in the wrong class. Excuse me. Thanks. Sorry." }
             ],
-            audio: "./../public/media/LE_listening_B1_Arriving_late_to_class.mp3",
+            audio: "./../../public/media/LE_listening_B1_Arriving_late_to_class.mp3",
         },
         {
             title: "At the chemist",
             description: "Listen to a conversation at a chemist's to practise and improve your listening skills.",
-            image: "./../public/images/pharmaceutical-chemist-in-lab-scaled.png",
+            image: "./../../public/images/pharmaceutical-chemist-in-lab-scaled.png",
             conversation: [
                 { speaker: "Chemist", text: "Hello, can I help?" },
                 { speaker: "Customer", text: "Yes, my wife sent me here. I, erm, need something for a sore throat … and I can't stop coughing. It really hurts." },
@@ -1359,12 +1359,12 @@ export const items = {
                 { speaker: "Customer", text: "No, thanks." },
                 { speaker: "Chemist", text: "That'll be £7.49 then, please." }
             ],
-            audio: "./../public/media/LE_listening_B1_At_the_chemist.mp3",
+            audio: "./../../public/media/LE_listening_B1_At_the_chemist.mp3",
         },
         {
             title: "Chatting about a series",
             description: "Listen to two friends chatting about a television series to practise and improve your listening skills.",
-            image: "./../public/images/Chatting-about-series.jpg",
+            image: "./../../public/images/Chatting-about-series.jpg",
             conversation: [
                 { speaker: "Man", text: "So, did you see the final episode last night?" },
                 { speaker: "Woman", text: "Of course! As if I would miss that!" },
@@ -1388,12 +1388,12 @@ export const items = {
                 { speaker: "Woman", text: "She's so interesting! All the awful things she's done and the way she's just aiming for revenge, even though it won't make her happy. She still surprises us because we're expecting her to have a happy ending where she sees her mistakes and becomes a good person. But she never does, no matter what it costs her. She's unpredictable because we just can't believe anyone would be like her." },
                 { speaker: "Man", text: "I guess. You don't have to like a character for them to be your favourite!" }
             ],
-            audio: "./../public/media/LE_listening_B1_Chatting_about_a_series.mp3",
+            audio: "./../../public/media/LE_listening_B1_Chatting_about_a_series.mp3",
         },
         {
             title: "Making a decision",
             description: "Listen to a meeting in which colleagues make a decision to practise and improve your listening skills.",
-            image: "./../public/images/Decision-making.png",
+            image: "./../../public/images/Decision-making.png",
             conversation: [
                 { speaker: "Jani", text: "Thanks for coming, everyone. So, we're here today to define the timeline for our new project." },
                 { speaker: "Emiko", text: "Yes, Jani, that's a great idea." },
@@ -1421,12 +1421,12 @@ export const items = {
                 { speaker: "David", text: "I still don't think this is the right decision, but I'm happy to go with the majority. We should add some space into the schedule later for additional work this 'flexibility' will need." },
                 { speaker: "Jani", text: "Don't worry, David, we will. OK, so it's decided then. We'll start phase one as soon as possible, and in the background we'll continue planning the later phases and adapt them as we go along." }
             ],
-            audio: "./../public/media/LE_listening_B1_Making_a_decision.mp3",
+            audio: "./../../public/media/LE_listening_B1_Making_a_decision.mp3",
         },
         {
             title: "Meeting an old friend",
             description: "Listen to the conversation between two old friends to practise and improve your listening skills.",
-            image: "./../public/images/meeting-old-friends.jpg",
+            image: "./../../public/images/meeting-old-friends.jpg",
             conversation: [
                 { speaker: "Selina", text: "Patrick? Is that you?" },
                 { speaker: "Patrick", text: "Selina! Hello!" },
@@ -1453,12 +1453,12 @@ export const items = {
                 { speaker: "Patrick", text: "Thanks. You should really come round to the house one day." },
                 { speaker: "Selina", text: "That would be great. Let's swap numbers and ..." }
             ],
-            audio: "./../public/media/LE_listening_B1_Meeting_an_old_friend.mp3",
+            audio: "./../../public/media/LE_listening_B1_Meeting_an_old_friend.mp3",
         },
         {
             title: "Work–life balance",
             description: "Listen to a radio interview about maintaining a good work–life balance to practise and improve your listening skills.",
-            image: "./../public/images/work-life-balance.jpg",
+            image: "./../../public/images/work-life-balance.jpg",
             conversation: [
                 { speaker: "Presenter", text: "Good morning, everyone. On today's show, we've got Chris Svensson with us, the author of No more nine to five, the new best-selling book about work–life balance in the current working world. Good morning, Chris. Thanks for coming." },
                 { speaker: "Chris", text: "Thanks for having me, Anna." },
@@ -1473,7 +1473,7 @@ export const items = {
                 { speaker: "Presenter", text: "That sounds good. So, what you're saying is that although traditional divisions between work and life are fading, many employees now have more freedom to do their work from different locations and at different times." },
                 { speaker: "Chris", text: "Yes, that's it." }
             ],
-            audio: "./../public/media/LE_listening_B1_Work_life_balance.mp3",
+            audio: "./../../public/media/LE_listening_B1_Work_life_balance.mp3",
         }
     ],
     b2: [
@@ -1481,7 +1481,7 @@ export const items = {
             title:
                 "A business interview",
             description: "Listen to the business interview to practise and improve your listening skills.",
-            image: "./../public/images/business-interview.jpg",
+            image: "./../../public/images/business-interview.jpg",
             conversation: [
                 { speaker: "Presenter", text: "Welcome to today's show. We're very happy to have Anna Oliveira as our guest today. Anna is the creator and founder of HomeworX – spelled with an 'x' we should note – an app which helps teenagers with their homework. Thanks for coming in, Anna." },
                 { speaker: "Anna", text: "Thanks for having me." },
@@ -1501,12 +1501,12 @@ export const items = {
                 { speaker: "Anna", text: "We've just secured some funding and hope to expand the range of services we offer using the app." },
                 { speaker: "Presenter", text: "We wish you the best of luck. Thanks again for coming in. That was Anna Oliveira, founder of the tutoring app HomeworX (with an 'x', don't forget!), which is available for both Apple and Android devices. Join us again next week for another business interview. Have a great week, everyone." }
             ],
-            audio: "./../public/media/LE_listening_B2_A_business_interview.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_business_interview.mp3",
         },
         {
             title: "A design presentation",
             description: "Listen to the presentation about a new product design to practise and improve your listening skills.",
-            image: "./../public/images/presentation.jpg",
+            image: "./../../public/images/presentation.jpg",
             conversation: [
                 { speaker: "Presenter", text: "Hi, everyone. Thanks for coming to this short presentation on our new product design. As you know, we've already redeveloped our 'Adventure' shampoo to make it more modern and appealing. And we've renamed it 'Adventure Tech'. Our market research established the target market as men in the 18–40 age range who like to be outdoors and also like technical gadgets, such as smartwatches, drones and things like that. We needed to create a bottle which appeals to that market." },
                 { speaker: "Presenter", text: "So, today, I'm happy to unveil our new bottle design. As you can see, it's designed to look like a black metal drinking flask, with some digital features printed on it." },
@@ -1517,12 +1517,12 @@ export const items = {
                 { speaker: "Presenter", text: "In summary, the bottle's been designed for men who like adventure and technology, and it comes in two sizes. The marketing campaign is starting next month and we're launching the product in two months." },
                 { speaker: "Presenter", text: "OK. So, any questions? Feel free to also email me for further information in case we run out of time." }
             ],
-            audio: "./../public/media/LE_listening_B2_A_design_presentation.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_design_presentation.mp3",
         },
         {
             title: "A digital detox podcast",
             description: "Listen to the podcast about doing a digital detox to practise and improve your listening skills.",
-            image: "./../public/images/digital-detox.png",
+            image: "./../../public/images/digital-detox.png",
             conversation: [
                 { speaker: "Presenter", text: "So, we're back in the studio. Welcome back, everyone. My name's Rick Walker. From our laptops to our televisions, from the displays on our smartphones to those on our satnavs, we are in front of screens all the time. Have you ever wondered what it would be like to disconnect completely? To choose not to have access to the internet? If you have, you may be in need of a digital detox – a total switch-off from all things digital. The idea of people taking a digital detox is becoming more and more popular, especially amongst young people – and today we're joined by someone who's tried a number of digital detox activities and is here to give us some advice about it. Amanda Vince, welcome to the studio." },
                 { speaker: "Amanda", text: "Thank you very much." },
@@ -1540,12 +1540,12 @@ export const items = {
                 { speaker: "Amanda", text: "I think everyone has to do this at their own pace. If a weekend feels too much, maybe just try for an evening. Then work your way up to more. I guarantee, once you've tried it, you'll want to try it again. We're going to try for a whole week in the summer." },
                 { speaker: "Presenter", text: "OK, let's pause there then and see what our listeners have to say. You can call us here directly, or send us a message on any of our social media channels ... oops, should I be saying that? Anyway, more after the break." }
             ],
-            audio: "./../public/media/LE_listening_B2_Digital_detox_podcast.mp3",
+            audio: "./../../public/media/LE_listening_B2_Digital_detox_podcast.mp3",
         },
         {
             title: "A lecture about an experiment",
             description: "Listen to the lecture about a science experiment to practise and improve your listening skills.",
-            image: "./../public/images/a-lecture-about-an-experiment.png",
+            image: "./../../public/images/a-lecture-about-an-experiment.png",
             conversation: [
                 {
                     speaker: "Instructor",
@@ -1576,12 +1576,12 @@ export const items = {
                     text: "The pitch drop experiment is something we can all participate in now. There's a live web stream that allows anyone to watch the glass funnel and wait for the fateful moment. A similar experiment to the Queensland pitch drop was set up in Dublin, and the video of the moment the pitch actually dropped went viral on the internet. It's interesting to see how a very slow event can spread news so quickly."
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_A_lecture_about_an_experiment.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_lecture_about_an_experiment.mp3",
         },
         {
             title: "A talk about motivation",
             description: "Listen to the talk about motivation to practise and improve your listening skills.",
-            image: "./../public/images/motivational-speech.jfif",
+            image: "./../../public/images/motivational-speech.jfif",
             conversation: [
                 {
                     speaker: "Instructor",
@@ -1608,12 +1608,12 @@ export const items = {
                     text: "So what does work? Giving your workers freedom; freedom to work on the things they want to work on, freedom to choose when, where and how they work. Want to work from home three days a week, get up late and work into the night instead? Fine. Just do the job well. And evidence shows people who choose the way they work get results. Companies that give employees time during the week to work on things that interest them and are not part of their regular job achieve amazing things. Some of the big tech companies are good examples of this, with ping-pong tables and areas to relax in …"
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_A_talk_about_motivation.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_talk_about_motivation.mp3",
         },
         {
             title: "Business news",
             description: "Listen to the business news to practise and improve your listening skills.",
-            image: "./../public/images/business-news.jpg",
+            image: "./../../public/images/business-news.jpg",
             conversation: [
                 {
                     speaker: "News Anchor",
@@ -1628,12 +1628,12 @@ export const items = {
                     text: "And in our final news item we ask, will we soon be saying goodbye to coins and notes forever? The nationwide trend of using cashless payment options is increasing. There are a number of reasons for this development. A key reason for this is a growing interest in reducing the number of items people need to leave their homes with. As almost everyone carries a smartphone with them, and many people also have smartwatches, the ability to pay for things using one of these two technologies is particularly appealing. More and more retailers are accepting cashless payments and in some cases they've stopped accepting cash altogether."
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Business_news.mp3",
+            audio: "./../../public/media/LE_listening_B2_Business_news.mp3",
         },
         {
             title: "Creating a study group",
             description: "Listen to the conversation about creating a study group to practise and improve your listening skills.",
-            image: "./../public/images/Study-Group-web.jpeg",
+            image: "./../../public/images/Study-Group-web.jpeg",
             conversation: [
                 {
                     speaker: "Ali",
@@ -1792,12 +1792,12 @@ export const items = {
                     text: "I have a list of dos and don'ts actually that I got online. I could be a moderator, and we could use the ideas as a starting point …"
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Creating_a_study_group.mp3",
+            audio: "./../../public/media/LE_listening_B2_Creating_a_study_group.mp3",
         },
         {
             title: "Film reviews",
             description: "Listen to the film reviews to practise and improve your listening skills.",
-            image: "./../public/images/film-review.jpg",
+            image: "./../../public/images/film-review.jpg",
             conversation: [
                 {
                     speaker: "Reviewer",
@@ -1828,12 +1828,12 @@ export const items = {
                     text: "But, more than that, I felt emotionally connected to the story and the characters. The whole film worked on so many levels. It reminded me of going to the cinema as a child – how much fun that was. I can't recommend it enough."
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Film_reviews.mp3",
+            audio: "./../../public/media/LE_listening_B2_Film_reviews.mp3",
         },
         {
             title: "Getting advice",
             description: "Listen to someone getting advice from a friend to practise and improve your listening skills.",
-            image: "./../public/images/advice-giving.jpg",
+            image: "./../../public/images/advice-giving.jpg",
             conversation: [
                 {
                     speaker: "Clara",
@@ -1940,12 +1940,12 @@ export const items = {
                     text: "I can't tell you how much I appreciate this. I thought …"
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Getting_advice.mp3",
+            audio: "./../../public/media/LE_listening_B2_Getting_advice.mp3",
         },
         {
             title: "Joining a gym",
             description: "Listen to the conversation about joining a gym to practise and improve your listening skills.",
-            image: "./../public/images/joining-gym.jpg",
+            image: "./../../public/images/joining-gym.jpg",
             conversation: [
                 {
                     speaker: "Receptionist",
@@ -2036,12 +2036,12 @@ export const items = {
                     text: "OK, I'll do that. Thanks very much!"
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Joining_a_gym.mp3",
+            audio: "./../../public/media/LE_listening_B2_Joining_a_gym.mp3",
         },
         {
             title: "Office party planning",
             description: "Listen to the conversation with an event planner to practise and improve your listening skills.",
-            image: "./../public/images/business-planning.png",
+            image: "./../../public/images/business-planning.png",
             conversation: [
                 {
                     speaker: "Ayako",
@@ -2148,12 +2148,12 @@ export const items = {
                     text: "Sure, no problem. I'll wait for your call."
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Office_party_planning.mp3",
+            audio: "./../../public/media/LE_listening_B2_Office_party_planning.mp3",
         },
         {
             title: "Talking about rumours",
             description: "Listen to two people talking about a colleague to practise and improve your listening skills.",
-            image: "./../public/images/Rumours_1934f13ef47_original-ratio.jpg",
+            image: "./../../public/images/Rumours_1934f13ef47_original-ratio.jpg",
             conversation: [
                 {
                     speaker: "Will",
@@ -2228,14 +2228,14 @@ export const items = {
                     text: "I hope so. I really hope he's not coming back."
                 }
             ],
-            audio: "./../public/media/LE_listening_B2_Talking_about_rumours.mp3",
+            audio: "./../../public/media/LE_listening_B2_Talking_about_rumours.mp3",
         }
     ],
     c1: [
         {
             title: "A job interview",
             description: "Listen to the job interview to practise and improve your listening skills.",
-            image: "./../public/images/job-interview.jpg",
+            image: "./../../public/images/job-interview.jpg",
             conversation: [
                 {
                     speaker: "Interviewer",
@@ -2358,12 +2358,12 @@ export const items = {
                     text: "Thank you for your time. I'd welcome the opportunity to continue discussing this role with you."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_A_job_interview.mp3",
+            audio: "./../../public/media/LE_listening_C1_A_job_interview.mp3",
         },
         {
             title: "A project management meeting",
             description: "Listen to a project management meeting to practise and improve your listening skills.",
-            image: "./../public/images/team-management.jfif",
+            image: "./../../public/images/team-management.jfif",
             conversation: [
                 {
                     speaker: "John",
@@ -2474,12 +2474,12 @@ export const items = {
                     text: "Yes, that should be no problem."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_A_project_management_meeting.mp3",
+            audio: "./../../public/media/LE_listening_C1_A_project_management_meeting.mp3",
         },
         {
             title: "An interview about two books",
             description: "Listen to an interview about two books to practise and improve your listening skills.",
-            image: "./../public/images/RS8095_GettyImages-937431092-hig.avif",
+            image: "./../../public/images/RS8095_GettyImages-937431092-hig.avif",
             conversation: [
                 {
                     speaker: "Presenter",
@@ -2566,12 +2566,12 @@ export const items = {
                     text: "Both books certainly look at how the mistakes of the parents affect children. And this is another reason we relate to these books. Parents are always worrying if they're doing a good job."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_An_interview_about_two_books.mp3",
+            audio: "./../../public/media/LE_listening_C1_An_interview_about_two_books.mp3",
         },
         {
             title: "Birthday parties",
             description: "Listen to a conversation about birthday parties between three friends to practise and improve your listening skills.",
-            image: "./../public/images/birthday-party.jpg",
+            image: "./../../public/images/birthday-party.jpg",
             conversation: [
                 {
                     speaker: "Marco",
@@ -2714,12 +2714,12 @@ export const items = {
                     text: "You've got me thinking … it's not a terrible idea. Maybe I will have a party this year!"
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_Birthday_parties.mp3",
+            audio: "./../../public/media/LE_listening_C1_Birthday_parties.mp3",
         },
         {
             title: "Catching up after a trip",
             description: "Listen to two friends talking about a recent trip abroad to practise and improve your listening skills.",
-            image: "./../public/images/group-people-talking.jpg",
+            image: "./../../public/images/group-people-talking.jpg",
             conversation: [
                 { speaker: "Dave", text: "Jean, hi!" },
                 { speaker: "Jean", text: "Hi, Dave. How are you?" },
@@ -2749,12 +2749,12 @@ export const items = {
                 { speaker: "Jean", text: "I'm dying to see photos. You want to meet up soon? Or are you too jet lagged still?" },
                 { speaker: "Dave", text: "Yeah, I'm actually free tomorrow if you like." }
             ],
-            audio: "./../public/media/LE_listening_C1_Talking_about_a_trip.mp3",
+            audio: "./../../public/media/LE_listening_C1_Talking_about_a_trip.mp3",
         },
         {
             title: "Challenges at work",
             description: "Listen to four people talking about different business challenges to practise and improve your listening skills.",
-            image: "./../public/images/commonworkplacechallenges.jpg",
+            image: "./../../public/images/commonworkplacechallenges.jpg",
             conversation: [
                 {
                     speaker: "A",
@@ -2805,12 +2805,12 @@ export const items = {
                     text: "As soon as they made the announcement about the cancellation, I knew I had to think quickly as it would not be likely that the flight would have capacity to take everyone from my cancelled flight. I hurried back through the airport and was one of the first to make it to the desk. That turned out to be a good idea, as there were only nine seats available on the flight the next morning. Everyone else had to fly to a different airport and then continue back to our destination airport in coaches. Lucky me! Right?"
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_Challenges_at_work.mp3",
+            audio: "./../../public/media/LE_listening_C1_Challenges_at_work.mp3",
         },
         {
             title: "Innovation in business",
             description: "Listen to the business podcast about innovation to practise and improve your listening skills.",
-            image: "./../public/images/rawpixel-678089-unsplash-e1535035548812.jpg",
+            image: "./../../public/images/rawpixel-678089-unsplash-e1535035548812.jpg",
             conversation: [
                 { speaker: "Podcast", text: "Welcome to today's Business4U podcast. The focus of this podcast is to think about innovation and why it's important, and also to look at different types and stages of innovation. By the end of it, you will hopefully have a better grasp of the topic of innovation and be able to better understand and drive innovation in both your working and personal lives." },
                 { speaker: "Podcast", text: "So, why is innovation important? Well, simply put, without innovation it would be difficult to make progress. Organisations and societies would stagnate. Innovation is what drives us forward. It's what forces us to compete in the business world. It's what leads to better products and services, and solutions to new and existing problems. From a business point of view, it's also something which is necessary for survival." },
@@ -2839,12 +2839,12 @@ export const items = {
 
                 { speaker: "Podcast", text: "So, there you have it. We've looked at four key types of innovation: incremental, disruptive, architectural and radical, and also five stages of successful innovation: firstly, idea generation. Then, get support. Next, experiment and test out the idea. The fourth stage is evaluation and finally implementation." }
             ],
-            audio: "./../public/media/LE_listening_C1_Innovation_in_business.mp3",
+            audio: "./../../public/media/LE_listening_C1_Innovation_in_business.mp3",
         },
         {
             title: "Introverts – redressing the balance",
             description: "Listen to a talk about social psychology to practise and improve your listening skills.",
-            image: "./../public/images/Introverts-redressing-the-balance.jpg",
+            image: "./../../public/images/Introverts-redressing-the-balance.jpg",
             conversation: [
                 {
                     speaker: "Speaker",
@@ -2875,12 +2875,12 @@ export const items = {
                     text: "The future is complicated, with a lot of huge, complex problems to solve. Let's make sure we've got our best people working on those problems in the way that suits them best. And then we've got to make sure we listen to our extroverts and our introverts and everyone who sits somewhere in between on the scale. We're going to need all of them."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_Introverts_reddressing_the_balance.mp3",
+            audio: "./../../public/media/LE_listening_C1_Introverts_reddressing_the_balance.mp3",
         },
         {
             title: "Renting a house",
             description: "Listen to four different people talking about their experiences with renting accommodation to practise and improve your listening skills.",
-            image: "./../public/images/house-renting.jpg",
+            image: "./../../public/images/house-renting.jpg",
             conversation: [
                 {
                     speaker: "Part: A",
@@ -2899,12 +2899,12 @@ export const items = {
                     text: "At first our landlord was really helpful, couldn't do enough for us. You hear stories of nightmare landlords and we felt like we were really lucky, or so we thought anyway. He redecorated the whole place, from top to bottom, and let us keep all the bills in his name so we didn't have the bother of contacting all the companies ourselves. He even offered to come round and do the gardening as he knew we both worked long hours and might not have time. That's where the problems started now I look back. Then he'd pop round 'just to check everything's OK for you' … once a month, then twice a month. Soon he was coming every week with some excuse or other. In the beginning we'd invite him in for tea, but it was only encouraging him, so when we realised, we'd try to have the conversation on the doorstep instead. It got so bad we pretended to be on our way out if we saw him coming up the path. We'd grab our coats and walk round the block until he'd gone. I don't know if he was just lonely or just didn't trust us not to ruin his precious house. In the end we gave our notice and found somewhere else. It's a shame because we really loved that house, but at least it's more peaceful in the new place."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_Renting_a_house.mp3",
+            audio: "./../../public/media/LE_listening_C1_Renting_a_house.mp3",
         },
         {
             title: "Tech addiction",
             description: "Listen to the radio programme about tech addiction to practise and improve your listening skills.",
-            image: "./../public/images/tech-addication.jpeg",
+            image: "./../../public/images/tech-addication.jpeg",
             conversation: [
                 {
                     speaker: "Presenter",
@@ -2971,12 +2971,12 @@ export const items = {
                     text: "So is it ..."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_Tech_addiction.mp3",
+            audio: "./../../public/media/LE_listening_C1_Tech_addiction.mp3",
         },
         {
             title: "The helix",
             description: "Listen to a lecture about the helix shape to practise and improve your listening skills.",
-            image: "./../public/images/RS7989_GettyImages-980196834-hig.avif",
+            image: "./../../public/images/RS7989_GettyImages-980196834-hig.avif",
             conversation: [
                 {
                     speaker: "Presenter",
@@ -3011,12 +3011,12 @@ export const items = {
                     text: "Let's turn our attention now to the mathematical description of the helix. You'll need a pen and paper for the next part of the talk as I am going to give you some variables to write down. Take your time to notice the different ..."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_The_helix.mp3",
+            audio: "./../../public/media/LE_listening_C1_The_helix.mp3",
         },
         {
             title: "The history of hand gestures",
             description: "Listen to a lecture about the history of hand gestures to practise and improve your listening skills.",
-            image: "./../public/images/360_F_267372722_L5l4IeoL56Oipw0m0erqGGSsScv5ojhz.jpg",
+            image: "./../../public/images/360_F_267372722_L5l4IeoL56Oipw0m0erqGGSsScv5ojhz.jpg",
             conversation: [
                 {
                     speaker: "Presenter",
@@ -3043,7 +3043,7 @@ export const items = {
                     text: "The final gesture I'm going to mention today is the handshake. It dates back as a greeting at least as far as Ancient Greece. In the Acropolis Museum in Athens, the base of one of the columns shows goddess Hera shaking hands with Athena, the goddess of wisdom and courage. It's thought that shaking hands, rather than bowing or curtseying, showed both parties as equals. In 17th-century marriage portraits in Europe we find many examples of handshakes between husband and wife. Now, of course, the handshake has a multitude of uses: meeting, greeting, parting, offering congratulations, expressing gratitude or completing an agreement. In sports or other competitive activities, it is also done as a sign of good sportsmanship. In this way, the gesture has not strayed from its original meaning to convey trust, respect and equality."
                 }
             ],
-            audio: "./../public/media/LE_listening_C1_The_history_of_hand_gestures.mp3",
+            audio: "./../../public/media/LE_listening_C1_The_history_of_hand_gestures.mp3",
         }
     ]
 };
