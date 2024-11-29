@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@font-face {
+  font-family: "Poppins-Light";
+  src: url(../fonts/Poppins-Light.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-Black";
+  src: url(../fonts/Poppins-Black.ttf);
+}
+body {
+  @apply font-Poppins-Medium;
+}
+
+.client-header {
+  @apply items-center !hidden !invisible lg:!visible lg:!block text-zinc-700 justify-between px-10 py-5 border-b child:flex child:items-center child:gap-2;
+}
+
+.website-logo {
+  @apply w-14 mr-5;
+}
+
+.dropdown-link {
+  @apply flex items-center gap-1.5;
+}
+
+* {
+  @apply p-0 m-0;
+}
+
+.nav-link {
+  @apply px-4 py-1.5 rounded-md hover:bg-zinc-50 flex items-center justify-center gap-1;
+}
+
+.dropdown-parent {
+  @apply relative;
+}
+
+.dropdown {
+  @apply p-3 z-10  absolute top-[110%] duration-150 opacity-0 invisible bg-white rounded-md border min-w-max;
+}
+
+.dropdown-parent:hover .dropdown {
+  @apply opacity-100 visible;
+}
+
+.dropdown-icon {
+  @apply rotate-90;
+}
+
+.active-tab {
+  @apply bg-white;
+}
+
+.hidden-section {
+  @apply !h-0 !overflow-hidden !whitespace-nowrap !p-0;
+}
+
+.hero-styles {
+  @apply grid mt-4 sm:grid-cols-2 grid-cols-1 gap-3 child:cursor-pointer child:h-10 child:duration-150 child-hover:bg-zinc-50 child:w-full child:px-4 child:flex child:items-center child:gap-2 child:rounded-md child:border text-sm;
+}
