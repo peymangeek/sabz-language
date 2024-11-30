@@ -13,7 +13,7 @@ const transcriptBtn = $.querySelector("#transcript-button")
 
 const initUI = () => {
   pageTitle.innerText = content.title
-  heroImg.src = content.image
+  heroImg.src = `./../../${content.image}`
   pageDescription.innerHTML = content.description
   level.innerHTML = content.level
   audioPlayer.src = content.audio

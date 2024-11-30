@@ -19,7 +19,7 @@ const renderUI = (items, page) => {
           <div
             class="h-[240px] mb-2 bg-zinc-100 rounded-md overflow-hidden"
           >
-            <img src="${card.image}" alt="${card.title}" class="w-full h-full object-cover" />
+            <img src="./../${card.image}" alt="${card.title}" class="w-full h-full object-cover" />
           </div>
           <div class="flex flex-col justify-between">
             <div>
