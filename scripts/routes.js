@@ -41,7 +41,7 @@ export const items = {
                 { speaker: "Mario", text: "Sure, no problem. I can do it this week." },
                 { speaker: "Susanne", text: "There's no hurry. Take your time." }
             ],
-            audio: "/public/media/LE_listening_A1_A_request_from_your_boss.mp3",
+            audio: "./../../public/media/LE_listening_A1_A_request_from_your_boss.mp3",
         },
         {
             title: "A voicemail message",
@@ -54,7 +54,7 @@ export const items = {
                 { speaker: "Marina", text: "Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com." },
                 { speaker: "Marina", text: "Thanks a lot. I look forward to hearing from you." }
             ],
-            audio: "/public/media/LE_listening_A1_A_voicemail_message.mp3",
+            audio: "./../../public/media/LE_listening_A1_A_voicemail_message.mp3",
         },
         {
             title: "Booking a table",
@@ -67,7 +67,7 @@ export const items = {
                 { speaker: "Marina", text: "Also, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com." },
                 { speaker: "Marina", text: "Thanks a lot. I look forward to hearing from you." }
             ],
-            audio: "/public/media/LE_listening_A1_Booking_a_table.mp3",
+            audio: "./../../public/media/LE_listening_A1_Booking_a_table.mp3",
         },
         {
             title: "Business cards",
@@ -103,7 +103,7 @@ export const items = {
                     text: "Hello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development."
                 }
             ],
-            audio: "/public/media/LE_listening_A1_Business_cards.mp3",
+            audio: "./../../public/media/LE_listening_A1_Business_cards.mp3",
         },
         {
             title: "Finding the library",
@@ -140,7 +140,7 @@ export const items = {
                 { speaker: "Student", text: "Oh! Oh, OK. Thank you." },
                 { speaker: "Librarian", text: "You're welcome." }
             ],
-            audio: "/public/media/LE_listening_A1_Finding_ the_library.mp3",
+            audio: "./../../public/media/LE_listening_A1_Finding_ the_library.mp3",
         },
         {
             title: "Meeting a new team member",
@@ -167,7 +167,7 @@ export const items = {
                 { speaker: "Carla", text: "How long have you been here?" },
                 { speaker: "Peter", text: "I've worked here for three years but I actually moved here from the UK five years ago, to study." }
             ],
-            audio: "/public/media/LE_listening_A1_Meeting_a_new_team_member.mp3",
+            audio: "./../../public/media/LE_listening_A1_Meeting_a_new_team_member.mp3",
         },
         {
             title: "Meeting other students",
@@ -195,7 +195,7 @@ export const items = {
                 { speaker: "Selim", text: "I wanted to do French but German was easier, so I took that." },
                 { speaker: "Cara", text: "German is so hard!" }
             ],
-            audio: "/public/media/LE_listening_A1_Meeting_other_students.mp3",
+            audio: "./../../public/media/LE_listening_A1_Meeting_other_students.mp3",
         },
         {
             title: "Meeting people at a dinner",
@@ -221,7 +221,7 @@ export const items = {
                 { speaker: "Charles", text: "Here you are." },
                 { speaker: "Alyssa and Julian", text: "Thanks!" }
             ],
-            audio: "/public/media/LE_listening_A1_Meeting_people_at_a_dinner.mp3",
+            audio: "./../../public/media/LE_listening_A1_Meeting_people_at_a_dinner.mp3",
         },
         {
             title: "Ordering in a café",
@@ -262,7 +262,7 @@ export const items = {
                 { speaker: "Customer 3", text: "Thanks. I think that's right." },
                 { speaker: "Server", text: "50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you." }
             ],
-            audio: "/public/media/LE_listening_A1_Ordering_in_a_café.mp3",
+            audio: "./../../public/media/LE_listening_A1_Ordering_in_a_café.mp3",
         },
         {
             title: "Organising a group project",
@@ -292,7 +292,7 @@ export const items = {
                 { speaker: "Selim", text: "OK! See you Wednesday for cake." },
                 { speaker: "Robert and Cara", text: "See you, Selim!" }
             ],
-            audio: "/public/media/LE_Listening_A1_Organising_a_ group_ project.mp3",
+            audio: "./../../public/media/LE_Listening_A1_Organising_a_ group_ project.mp3",
         },
         {
             title: "Shopping for clothes",
@@ -317,7 +317,7 @@ export const items = {
                 { speaker: "Shop assistant", text: "Would you like a bag for that?" },
                 { speaker: "Customer", text: "Yes, please." }
             ],
-            audio: "/public/media/LE_listening_A1_Shopping_for_clothes.mp3",
+            audio: "./../../public/media/LE_listening_A1_Shopping_for_clothes.mp3",
         },
         {
             title: "The first English class",
@@ -333,7 +333,7 @@ export const items = {
                 { speaker: "Lindsay Black", text: "I think that's all ... Oh, one more thing. For this course you need the book. Here it is: British Life and Language Level 1 Student's Book. So, please get a copy of the book. I don't want to see any photocopies of the book, thank you! Remember, it's level 1 student's book. Don't buy the teacher's book." },
                 { speaker: "Lindsay Black", text: "I think that's all, everyone. I look forward to working with you. See you next Monday!" }
             ],
-            audio: "/public/media/LE_listening_A1_The_first_English_class.mp3",
+            audio: "./../../public/media/LE_listening_A1_The_first_English_class.mp3",
         }
     ],
     a2: [
@@ -350,7 +350,7 @@ export const items = {
                 { speaker: "Speaker", text: "The other thing I wanted to tell you about is that the canteen has now introduced a cashless payment system. So, you can't use cash for payments any more. You can pay directly with your smartphone or you can pay using your company ID card. The total amount put on your company ID card comes off your salary at the end of each month." },
                 { speaker: "Speaker", text: "OK. That's it? Are there any questions?" }
             ],
-            audio: "/public/media/LE_listening_A2_Morning_briefing.mp3",
+            audio: "./../../public/media/LE_listening_A2_Morning_briefing.mp3",
         },
         {
             title: "An invitation to a party",
@@ -366,7 +366,7 @@ export const items = {
                     text: "You have two new messages. Message number two, received today at 5.15 p.m. Aw, you're still not answering your phone! OK, here are the instructions to get to my cousin's house for the party. Are you going to take your car? If you take the car, drive straight on Forest Road until you get to the motorway. Drive past Brownsville and take exit 13A. That's 13A. You drive down the road there and turn left. It's the first big house on the right. OK? If you're taking a bus, you can get the number 80 to Brownsville. Call me when you get there and somebody can pick you up in a car. I can't wait. This is going to be so great!"
                 }
             ],
-            audio: "/public/media/LE_listening_A2_An_invitation_to_a_party.mp3",
+            audio: "./../../public/media/LE_listening_A2_An_invitation_to_a_party.mp3",
         },
         {
             title: "Changing a meeting time",
@@ -438,7 +438,7 @@ export const items = {
                     text: "You too."
                 },
             ],
-            audio: "/public/media/LE_listening_A2_Changing_a_meeting_time.mp3",
+            audio: "./../../public/media/LE_listening_A2_Changing_a_meeting_time.mp3",
         },
         {
             title: "Changing plans",
@@ -538,7 +538,7 @@ export const items = {
                     text: "I promise. I promise!"
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Changing_plans.mp3",
+            audio: "./../../public/media/LE_listening_A2_Changing_plans.mp3",
         },
         {
             title: "Facts and figures",
@@ -566,7 +566,7 @@ export const items = {
                     text: "Let's now turn to the role of the Panama Canal in the global economy …"
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Facts_and_figures.mp3",
+            audio: "./../../public/media/LE_listening_A2_Facts_and_figures.mp3",
         },
         {
             title: "Four conversations",
@@ -746,7 +746,7 @@ export const items = {
                     text: "I'm sorry."
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Four_conversations.mp3",
+            audio: "./../../public/media/LE_listening_A2_Four_conversations.mp3",
         },
         {
             title: "Instructions for an assignment",
@@ -774,7 +774,7 @@ export const items = {
                     text: "And lastly, make it easy for me to read! That means use a clear font. Arial is best, but Times New Roman is fine too. Not Comic Sans please! Size 12 font for the essay, and size 14 for the titles and subheadings. And use page numbers. Any questions?"
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Academic_Instructions_for_an_assignment.mp3",
+            audio: "./../../public/media/LE_listening_A2_Academic_Instructions_for_an_assignment.mp3",
         },
         {
             title: "Leaving a message",
@@ -866,7 +866,7 @@ export const items = {
                     text: "Goodbye."
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Leaving_a_message.mp3",
+            audio: "./../../public/media/LE_listening_A2_Leaving_a_message.mp3",
         },
         {
             title: "Missing a class",
@@ -958,7 +958,7 @@ export const items = {
                     text: "Goodbye."
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Missing_a_class.mp3",
+            audio: "./../../public/media/LE_listening_A2_Missing_a_class.mp3",
         },
         {
             title: "Transport announcements",
@@ -982,7 +982,7 @@ export const items = {
                     text: "This is a London Underground service to Liverpool Street. The next station is Liverpool Street. Upon arrival, the first set of doors will not open. Customers in the first carriage, please move towards the rear doors to leave the train. The next station is Liverpool Street. Change here for Central Line, Circle Line, Hammersmith & City Line and Metropolitan Line and Main Line Suburban rail services. Please mind the gap between the train and the platform. This train terminates at Redbridge."
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Transport_announcements.mp3",
+            audio: "./../../public/media/LE_listening_A2_Transport_announcements.mp3",
         },
         {
             title: "Understanding an explanation",
@@ -1042,7 +1042,7 @@ export const items = {
                     text: "OK ... well, we don't have time right now but I can bring more examples in for next class, OK?"
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Understanding_an_explanation.mp3",
+            audio: "./../../public/media/LE_listening_A2_Understanding_an_explanation.mp3",
         },
         {
             title: "Who's who in the office",
@@ -1098,7 +1098,7 @@ export const items = {
                     text: "Thanks. I'll introduce myself to him later."
                 }
             ],
-            audio: "/public/media/LE_listening_A2_Who's_who_in_the_office.mp3",
+            audio: "./../../public/media/LE_listening_A2_Who's_who_in_the_office.mp3",
         }
 
     ],
@@ -1181,7 +1181,7 @@ export const items = {
                     text: "You too. Goodbye."
                 }
             ],
-            audio: "/public/media/LE_listening_B1_A_phone_call_from_a_customer.mp3",
+            audio: "./../../public/media/LE_listening_B1_A_phone_call_from_a_customer.mp3",
         },
         {
             title: "A student discussion",
@@ -1210,7 +1210,7 @@ export const items = {
                 { speaker: "Student 1", text: "Oh, yes. It says Mars has about 38 per cent of Earth's gravity." },
                 { speaker: "Teacher", text: "OK, let's see what you've found …" }
             ],
-            audio: "/public/media/LE_listening_B1_Student_discussion.mp3",
+            audio: "./../../public/media/LE_listening_B1_Student_discussion.mp3",
         },
         {
             title: "A team meeting about diversity",
@@ -1236,7 +1236,7 @@ export const items = {
                 { speaker: "Brenda", text: "Sure. That'll be fun." },
                 { speaker: "Nina", text: "And I'm going to do some further research into how other organisations are benefiting from their diversity. I can share this with the whole team." }
             ],
-            audio: "/public/media/LE_listening_B1_Team_meeting_about_diversity.mp3",
+            audio: "./../../public/media/LE_listening_B1_Team_meeting_about_diversity.mp3",
         },
         {
             title: "A weather forecast",
@@ -1253,7 +1253,7 @@ export const items = {
                 { speaker: "Presenter", text: "Temperatures, at least, will stay mostly warm at around 21 degrees for the weekend. It might feel like a nice change from the high twenties and early thirties we'll see in the week." },
                 { speaker: "Presenter", text: "That's all from me until tomorrow. Enjoy the mini-heatwave while you can!" }
             ],
-            audio: "/public/media/LE_listening_B1_A_weather_forecast.mp3",
+            audio: "./../../public/media/LE_listening_B1_A_weather_forecast.mp3",
         },
         {
             title: "An interview about listening skills",
@@ -1274,7 +1274,7 @@ export const items = {
                 { speaker: "Gabriella", text: "Ah, well, you only start the summary, so you might say, in German in your case, 'OK, so the first thing I have to do is …?' and make it a question. Or, for example, 'And which office is that again?' Break it down into smaller questions and the other person will naturally start answering them. That way you're controlling the conversation a bit more." },
                 { speaker: "Presenter", text: "I get you ...." }
             ],
-            audio: "/public/media/LE_listening_B1_An_interview_about_listening_skills.mp3",
+            audio: "./../../public/media/LE_listening_B1_An_interview_about_listening_skills.mp3",
         },
         {
             title: "An introduction to a lecture",
@@ -1291,7 +1291,7 @@ export const items = {
                 { speaker: "Lecturer", text: "For the rest of this lecture, I will explore this theory of flow in more detail. First we will look at Csikszentmihalyi's life, and how it influenced his ideas. Then we will look at the conditions that go with a state of flow. What creates flow, exactly? Finally, we will look at activities that can help us achieve flow in our everyday lives. Will this course make you happy for life? Well, maybe. Maybe." },
                 { speaker: "Lecturer", text: "Right, let's get started. If you look at the next slide …" }
             ],
-            audio: "/public/media/LE_listening_B1_An_introduction_to_a_lecture.mp3",
+            audio: "./../../public/media/LE_listening_B1_An_introduction_to_a_lecture.mp3",
         },
         {
             title: "Arriving late to class",
@@ -1330,7 +1330,7 @@ export const items = {
                 { speaker: "Student 2", text: "It's fine." },
                 { speaker: "Student 1", text: "Here, I'll just … excuse me. I'm in the wrong class. Excuse me. Thanks. Sorry." }
             ],
-            audio: "/public/media/LE_listening_B1_Arriving_late_to_class.mp3",
+            audio: "./../../public/media/LE_listening_B1_Arriving_late_to_class.mp3",
         },
         {
             title: "At the chemist",
@@ -1359,7 +1359,7 @@ export const items = {
                 { speaker: "Customer", text: "No, thanks." },
                 { speaker: "Chemist", text: "That'll be £7.49 then, please." }
             ],
-            audio: "/public/media/LE_listening_B1_At_the_chemist.mp3",
+            audio: "./../../public/media/LE_listening_B1_At_the_chemist.mp3",
         },
         {
             title: "Chatting about a series",
@@ -1388,7 +1388,7 @@ export const items = {
                 { speaker: "Woman", text: "She's so interesting! All the awful things she's done and the way she's just aiming for revenge, even though it won't make her happy. She still surprises us because we're expecting her to have a happy ending where she sees her mistakes and becomes a good person. But she never does, no matter what it costs her. She's unpredictable because we just can't believe anyone would be like her." },
                 { speaker: "Man", text: "I guess. You don't have to like a character for them to be your favourite!" }
             ],
-            audio: "/public/media/LE_listening_B1_Chatting_about_a_series.mp3",
+            audio: "./../../public/media/LE_listening_B1_Chatting_about_a_series.mp3",
         },
         {
             title: "Making a decision",
@@ -1421,7 +1421,7 @@ export const items = {
                 { speaker: "David", text: "I still don't think this is the right decision, but I'm happy to go with the majority. We should add some space into the schedule later for additional work this 'flexibility' will need." },
                 { speaker: "Jani", text: "Don't worry, David, we will. OK, so it's decided then. We'll start phase one as soon as possible, and in the background we'll continue planning the later phases and adapt them as we go along." }
             ],
-            audio: "/public/media/LE_listening_B1_Making_a_decision.mp3",
+            audio: "./../../public/media/LE_listening_B1_Making_a_decision.mp3",
         },
         {
             title: "Meeting an old friend",
@@ -1453,7 +1453,7 @@ export const items = {
                 { speaker: "Patrick", text: "Thanks. You should really come round to the house one day." },
                 { speaker: "Selina", text: "That would be great. Let's swap numbers and ..." }
             ],
-            audio: "/public/media/LE_listening_B1_Meeting_an_old_friend.mp3",
+            audio: "./../../public/media/LE_listening_B1_Meeting_an_old_friend.mp3",
         },
         {
             title: "Work–life balance",
@@ -1473,7 +1473,7 @@ export const items = {
                 { speaker: "Presenter", text: "That sounds good. So, what you're saying is that although traditional divisions between work and life are fading, many employees now have more freedom to do their work from different locations and at different times." },
                 { speaker: "Chris", text: "Yes, that's it." }
             ],
-            audio: "/public/media/LE_listening_B1_Work_life_balance.mp3",
+            audio: "./../../public/media/LE_listening_B1_Work_life_balance.mp3",
         }
     ],
     b2: [
@@ -1501,7 +1501,7 @@ export const items = {
                 { speaker: "Anna", text: "We've just secured some funding and hope to expand the range of services we offer using the app." },
                 { speaker: "Presenter", text: "We wish you the best of luck. Thanks again for coming in. That was Anna Oliveira, founder of the tutoring app HomeworX (with an 'x', don't forget!), which is available for both Apple and Android devices. Join us again next week for another business interview. Have a great week, everyone." }
             ],
-            audio: "/public/media/LE_listening_B2_A_business_interview.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_business_interview.mp3",
         },
         {
             title: "A design presentation",
@@ -1517,7 +1517,7 @@ export const items = {
                 { speaker: "Presenter", text: "In summary, the bottle's been designed for men who like adventure and technology, and it comes in two sizes. The marketing campaign is starting next month and we're launching the product in two months." },
                 { speaker: "Presenter", text: "OK. So, any questions? Feel free to also email me for further information in case we run out of time." }
             ],
-            audio: "/public/media/LE_listening_B2_A_design_presentation.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_design_presentation.mp3",
         },
         {
             title: "A digital detox podcast",
@@ -1540,7 +1540,7 @@ export const items = {
                 { speaker: "Amanda", text: "I think everyone has to do this at their own pace. If a weekend feels too much, maybe just try for an evening. Then work your way up to more. I guarantee, once you've tried it, you'll want to try it again. We're going to try for a whole week in the summer." },
                 { speaker: "Presenter", text: "OK, let's pause there then and see what our listeners have to say. You can call us here directly, or send us a message on any of our social media channels ... oops, should I be saying that? Anyway, more after the break." }
             ],
-            audio: "/public/media/LE_listening_B2_Digital_detox_podcast.mp3",
+            audio: "./../../public/media/LE_listening_B2_Digital_detox_podcast.mp3",
         },
         {
             title: "A lecture about an experiment",
@@ -1576,7 +1576,7 @@ export const items = {
                     text: "The pitch drop experiment is something we can all participate in now. There's a live web stream that allows anyone to watch the glass funnel and wait for the fateful moment. A similar experiment to the Queensland pitch drop was set up in Dublin, and the video of the moment the pitch actually dropped went viral on the internet. It's interesting to see how a very slow event can spread news so quickly."
                 }
             ],
-            audio: "/public/media/LE_listening_B2_A_lecture_about_an_experiment.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_lecture_about_an_experiment.mp3",
         },
         {
             title: "A talk about motivation",
@@ -1608,7 +1608,7 @@ export const items = {
                     text: "So what does work? Giving your workers freedom; freedom to work on the things they want to work on, freedom to choose when, where and how they work. Want to work from home three days a week, get up late and work into the night instead? Fine. Just do the job well. And evidence shows people who choose the way they work get results. Companies that give employees time during the week to work on things that interest them and are not part of their regular job achieve amazing things. Some of the big tech companies are good examples of this, with ping-pong tables and areas to relax in …"
                 }
             ],
-            audio: "/public/media/LE_listening_B2_A_talk_about_motivation.mp3",
+            audio: "./../../public/media/LE_listening_B2_A_talk_about_motivation.mp3",
         },
         {
             title: "Business news",
@@ -1628,7 +1628,7 @@ export const items = {
                     text: "And in our final news item we ask, will we soon be saying goodbye to coins and notes forever? The nationwide trend of using cashless payment options is increasing. There are a number of reasons for this development. A key reason for this is a growing interest in reducing the number of items people need to leave their homes with. As almost everyone carries a smartphone with them, and many people also have smartwatches, the ability to pay for things using one of these two technologies is particularly appealing. More and more retailers are accepting cashless payments and in some cases they've stopped accepting cash altogether."
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Business_news.mp3",
+            audio: "./../../public/media/LE_listening_B2_Business_news.mp3",
         },
         {
             title: "Creating a study group",
@@ -1792,7 +1792,7 @@ export const items = {
                     text: "I have a list of dos and don'ts actually that I got online. I could be a moderator, and we could use the ideas as a starting point …"
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Creating_a_study_group.mp3",
+            audio: "./../../public/media/LE_listening_B2_Creating_a_study_group.mp3",
         },
         {
             title: "Film reviews",
@@ -1828,7 +1828,7 @@ export const items = {
                     text: "But, more than that, I felt emotionally connected to the story and the characters. The whole film worked on so many levels. It reminded me of going to the cinema as a child – how much fun that was. I can't recommend it enough."
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Film_reviews.mp3",
+            audio: "./../../public/media/LE_listening_B2_Film_reviews.mp3",
         },
         {
             title: "Getting advice",
@@ -1940,7 +1940,7 @@ export const items = {
                     text: "I can't tell you how much I appreciate this. I thought …"
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Getting_advice.mp3",
+            audio: "./../../public/media/LE_listening_B2_Getting_advice.mp3",
         },
         {
             title: "Joining a gym",
@@ -2036,7 +2036,7 @@ export const items = {
                     text: "OK, I'll do that. Thanks very much!"
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Joining_a_gym.mp3",
+            audio: "./../../public/media/LE_listening_B2_Joining_a_gym.mp3",
         },
         {
             title: "Office party planning",
@@ -2148,7 +2148,7 @@ export const items = {
                     text: "Sure, no problem. I'll wait for your call."
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Office_party_planning.mp3",
+            audio: "./../../public/media/LE_listening_B2_Office_party_planning.mp3",
         },
         {
             title: "Talking about rumours",
@@ -2228,7 +2228,7 @@ export const items = {
                     text: "I hope so. I really hope he's not coming back."
                 }
             ],
-            audio: "/public/media/LE_listening_B2_Talking_about_rumours.mp3",
+            audio: "./../../public/media/LE_listening_B2_Talking_about_rumours.mp3",
         }
     ],
     c1: [
@@ -2358,7 +2358,7 @@ export const items = {
                     text: "Thank you for your time. I'd welcome the opportunity to continue discussing this role with you."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_A_job_interview.mp3",
+            audio: "./../../public/media/LE_listening_C1_A_job_interview.mp3",
         },
         {
             title: "A project management meeting",
@@ -2474,7 +2474,7 @@ export const items = {
                     text: "Yes, that should be no problem."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_A_project_management_meeting.mp3",
+            audio: "./../../public/media/LE_listening_C1_A_project_management_meeting.mp3",
         },
         {
             title: "An interview about two books",
@@ -2566,7 +2566,7 @@ export const items = {
                     text: "Both books certainly look at how the mistakes of the parents affect children. And this is another reason we relate to these books. Parents are always worrying if they're doing a good job."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_An_interview_about_two_books.mp3",
+            audio: "./../../public/media/LE_listening_C1_An_interview_about_two_books.mp3",
         },
         {
             title: "Birthday parties",
@@ -2714,7 +2714,7 @@ export const items = {
                     text: "You've got me thinking … it's not a terrible idea. Maybe I will have a party this year!"
                 }
             ],
-            audio: "/public/media/LE_listening_C1_Birthday_parties.mp3",
+            audio: "./../../public/media/LE_listening_C1_Birthday_parties.mp3",
         },
         {
             title: "Catching up after a trip",
@@ -2749,7 +2749,7 @@ export const items = {
                 { speaker: "Jean", text: "I'm dying to see photos. You want to meet up soon? Or are you too jet lagged still?" },
                 { speaker: "Dave", text: "Yeah, I'm actually free tomorrow if you like." }
             ],
-            audio: "/public/media/LE_listening_C1_Talking_about_a_trip.mp3",
+            audio: "./../../public/media/LE_listening_C1_Talking_about_a_trip.mp3",
         },
         {
             title: "Challenges at work",
@@ -2805,7 +2805,7 @@ export const items = {
                     text: "As soon as they made the announcement about the cancellation, I knew I had to think quickly as it would not be likely that the flight would have capacity to take everyone from my cancelled flight. I hurried back through the airport and was one of the first to make it to the desk. That turned out to be a good idea, as there were only nine seats available on the flight the next morning. Everyone else had to fly to a different airport and then continue back to our destination airport in coaches. Lucky me! Right?"
                 }
             ],
-            audio: "/public/media/LE_listening_C1_Challenges_at_work.mp3",
+            audio: "./../../public/media/LE_listening_C1_Challenges_at_work.mp3",
         },
         {
             title: "Innovation in business",
@@ -2839,7 +2839,7 @@ export const items = {
 
                 { speaker: "Podcast", text: "So, there you have it. We've looked at four key types of innovation: incremental, disruptive, architectural and radical, and also five stages of successful innovation: firstly, idea generation. Then, get support. Next, experiment and test out the idea. The fourth stage is evaluation and finally implementation." }
             ],
-            audio: "/public/media/LE_listening_C1_Innovation_in_business.mp3",
+            audio: "./../../public/media/LE_listening_C1_Innovation_in_business.mp3",
         },
         {
             title: "Introverts – redressing the balance",
@@ -2875,7 +2875,7 @@ export const items = {
                     text: "The future is complicated, with a lot of huge, complex problems to solve. Let's make sure we've got our best people working on those problems in the way that suits them best. And then we've got to make sure we listen to our extroverts and our introverts and everyone who sits somewhere in between on the scale. We're going to need all of them."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_Introverts_reddressing_the_balance.mp3",
+            audio: "./../../public/media/LE_listening_C1_Introverts_reddressing_the_balance.mp3",
         },
         {
             title: "Renting a house",
@@ -2899,7 +2899,7 @@ export const items = {
                     text: "At first our landlord was really helpful, couldn't do enough for us. You hear stories of nightmare landlords and we felt like we were really lucky, or so we thought anyway. He redecorated the whole place, from top to bottom, and let us keep all the bills in his name so we didn't have the bother of contacting all the companies ourselves. He even offered to come round and do the gardening as he knew we both worked long hours and might not have time. That's where the problems started now I look back. Then he'd pop round 'just to check everything's OK for you' … once a month, then twice a month. Soon he was coming every week with some excuse or other. In the beginning we'd invite him in for tea, but it was only encouraging him, so when we realised, we'd try to have the conversation on the doorstep instead. It got so bad we pretended to be on our way out if we saw him coming up the path. We'd grab our coats and walk round the block until he'd gone. I don't know if he was just lonely or just didn't trust us not to ruin his precious house. In the end we gave our notice and found somewhere else. It's a shame because we really loved that house, but at least it's more peaceful in the new place."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_Renting_a_house.mp3",
+            audio: "./../../public/media/LE_listening_C1_Renting_a_house.mp3",
         },
         {
             title: "Tech addiction",
@@ -2971,7 +2971,7 @@ export const items = {
                     text: "So is it ..."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_Tech_addiction.mp3",
+            audio: "./../../public/media/LE_listening_C1_Tech_addiction.mp3",
         },
         {
             title: "The helix",
@@ -3011,7 +3011,7 @@ export const items = {
                     text: "Let's turn our attention now to the mathematical description of the helix. You'll need a pen and paper for the next part of the talk as I am going to give you some variables to write down. Take your time to notice the different ..."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_The_helix.mp3",
+            audio: "./../../public/media/LE_listening_C1_The_helix.mp3",
         },
         {
             title: "The history of hand gestures",
@@ -3043,7 +3043,7 @@ export const items = {
                     text: "The final gesture I'm going to mention today is the handshake. It dates back as a greeting at least as far as Ancient Greece. In the Acropolis Museum in Athens, the base of one of the columns shows goddess Hera shaking hands with Athena, the goddess of wisdom and courage. It's thought that shaking hands, rather than bowing or curtseying, showed both parties as equals. In 17th-century marriage portraits in Europe we find many examples of handshakes between husband and wife. Now, of course, the handshake has a multitude of uses: meeting, greeting, parting, offering congratulations, expressing gratitude or completing an agreement. In sports or other competitive activities, it is also done as a sign of good sportsmanship. In this way, the gesture has not strayed from its original meaning to convey trust, respect and equality."
                 }
             ],
-            audio: "/public/media/LE_listening_C1_The_history_of_hand_gestures.mp3",
+            audio: "./../../public/media/LE_listening_C1_The_history_of_hand_gestures.mp3",
         }
     ]
 };
